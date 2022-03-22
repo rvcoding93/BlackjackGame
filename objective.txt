@@ -1,0 +1,22 @@
+Step 1: Familiarise yourself with the HTML and JS
+    - create a HTML + CSS Stylesheet, there is a pre written one used to condense 
+    time
+Step 2: Style the page
+    - import(link) the style sheet to format the games webpage
+Step 3: Cards on the table
+    - import the image directory to the dealer or players hand, this supplies the
+    game with the necessary elements to function like a card game.
+Step 4: Dealing the cards
+    - 
+Step 5: Hit me
+Step 6: Creating a deck
+Step 7: Deal the deck
+Step 8: Image From Cards
+Step 9: Render Hands
+Step 10: Shuffle the Deck
+Step 11: Calculate points for a hand
+Step 12: Display points
+Step 13: Busts
+Step 14: Player stands
+Step 15: Determine winner
+Step 16: Restart game
