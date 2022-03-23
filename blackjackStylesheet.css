@@ -23,9 +23,9 @@ body * {
 .table {
   width: 900px;
   max-width: calc(100% - 20px);
-  border: 8px solid rgb(10, 43, 2);
+  border: 8px solid rgb(255, 0, 0);
   border-radius: 20px;
-  background: rgb(22, 77, 8);
+  background: rgb(77, 30, 8);
   margin: 0 auto;
   color: white;
   padding: 30px;
@@ -47,7 +47,7 @@ body * {
 
 .hand {
   height: 120px;
-  background: rgba(10, 43, 2, 0.5);
+  background: rgba(43, 14, 2, 0.5);
   border-radius: 5px;
 }
 
@@ -99,3 +99,6 @@ button[type="reset"]:hover {
   box-shadow: 0px 0px 10px 5px rgba(150, 7, 7, 0.63);
 }
 
+#cardHand{
+  visibility: hidden;
+}
