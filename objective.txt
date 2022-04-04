@@ -6,9 +6,6 @@ Step 2: Style the page
 Step 3: Cards on the table
     - import the image directory to the dealer or players hand, this supplies the
     game with the necessary elements to function like a card game.
-
-
-
 Step 4: Dealing the cards
     - remove the cards added in previous step add an event listener to 
 "deal" the cards when called upon
@@ -20,6 +17,8 @@ Step 6: Creating a deck
 Step 7: Deal the deck
     - create a dealer and player hand for the cards to rest in during the game.
 Step 8: Image From Cards
+
+
     - 
 Step 9: Render Hands
 Step 10: Shuffle the Deck
